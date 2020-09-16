@@ -9,6 +9,7 @@
 # C
 # Prerequisites
 *.d
+.ccls-cache
 
 # Object files
 *.o
